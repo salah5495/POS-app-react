@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 130,
+      "name": "Strawberry Shake",
+      "price": "300",
+      "image": "https://cdn.pixabay.com/photo/2018/04/09/18/20/strawberry-3304967_960_720.jpg"
+    },
+    {
+      "id": 131,
+      "name": "milk Shake",
+      "price": "250",
+      "image": "https://cdn.pixabay.com/photo/2017/04/26/22/24/soy-milk-2263942_960_720.jpg"
+    },
+    {
+      "id": 132,
+      "name": "ice cream",
+      "price": "100",
+      "image": "https://cdn.pixabay.com/photo/2017/04/04/18/07/ice-cream-2202561_960_720.jpg"
+    },
+    {
+      "id": 133,
+      "name": "mango shakes",
+      "price": "300",
+      "image": "https://cdn.pixabay.com/photo/2018/05/07/11/22/mango-3380631_960_720.jpg"
+    },
+    {
+      "id": 134,
+      "name": "Watermelon",
+      "price": "200",
+      "image": "https://cdn.pixabay.com/photo/2018/03/12/21/37/table-3220967_960_720.jpg"
+    },
+    {
+      "id": 135,
+      "name": "Chocolate",
+      "price": "400",
+      "image": "https://cdn.pixabay.com/photo/2015/11/23/11/54/chocolate-smoothie-1058191_960_720.jpg"
+    }
+  ]
+}
