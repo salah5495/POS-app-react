@@ -1,2 +1,2 @@
-# simple Point Of Sale app
-## react POS app
+# simple Point Of Sale react app
+
