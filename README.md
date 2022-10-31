@@ -1,4 +1,5 @@
 # A simple Point of Sale react app
+##Featues
 
 ![Screenshot (165)](https://user-images.githubusercontent.com/73616152/198870312-abf2fd36-a5e2-4e99-a8e3-a5e61377aaa8.png)
 ![Screenshot (166)](https://user-images.githubusercontent.com/73616152/198870293-f578bb46-44fd-43a9-8acc-35e70bf0fb49.png)
