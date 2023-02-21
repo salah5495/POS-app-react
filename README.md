@@ -1,4 +1,4 @@
-#  Simple Point of Sale react app
+# ASimple Point of Sale react app
 ## Features
 The app has mainly 3 sections:
 * Products Section: where the products are displayed and you can select the product you want to sell
