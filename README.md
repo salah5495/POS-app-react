@@ -1,5 +1,5 @@
 # A simple Point of Sale (POS) react app
-## Features
+## Feature
 The app has mainly 3 sections:
 * Products Section: where the products are displayed and you can select the product you want to sell
 * Cart section: where the sold product are moved, a table containing product details like name and the quantity is shown, calculating the product's amount automatically
